@@ -25,7 +25,8 @@ jobs:
       - name: Build with Maven
         run: mvn -B package --file pom.xml
 ```
-
+### Staus Badge
+[![Build abd test of Java Project](https://github.com/marioblascop/pipeline-ci-githubactions-java/actions/workflows/main.yml/badge.svg)](https://github.com/marioblascop/pipeline-ci-githubactions-java/actions/workflows/main.yml)
 ## Parte 2 - CD 
 ### Resolución de problemas con la suscripción de Estudiantes 
 
